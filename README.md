@@ -4,4 +4,4 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" alt="Icon" width="40"/>
 </a>
 
-[![Watch the video](https://miro.medium.com/v2/resize:fit:1400/1*5ztbgEt4NqpVaxTc64C-XA.png)](https://youtu.be/zdYq2LZE2JE?si=TSnkivfZYZxCUwLa)
+[![Watch the video]()](https://youtu.be/zdYq2LZE2JE?si=TSnkivfZYZxCUwLa)
