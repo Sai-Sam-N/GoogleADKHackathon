@@ -4,4 +4,4 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" alt="Icon" width="40"/>
 </a>
 
-[![Watch the video](![SoulSync](https://github.com/user-attachments/assets/e2652b56-3f7b-4f7c-a3d3-f4987466cdf7))](https://youtu.be/zdYq2LZE2JE?si=TSnkivfZYZxCUwLa)
+[![Watch the video](![SoulSync](https://github.com/user-attachments/assets/c119161a-6bd2-4e81-a00b-5a3d4d473728))](https://youtu.be/zdYq2LZE2JE?si=TSnkivfZYZxCUwLa)
